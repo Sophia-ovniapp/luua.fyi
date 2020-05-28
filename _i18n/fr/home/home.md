@@ -15,7 +15,7 @@ Sur Luua, les communautés[^1] sont représentées sous la forme d'**espaces**. 
 Le schéma "classique" étant de discuter de quelque chose, décider si on le fait, et le faire.
 
 ## 1. Les discussions
-Une discussion permet aux membre d'un **espace** d'échanger et de débattre d'une idée, d'un problème, ou d'à peu près n'importe quoi. Vous pouvez voir ça comme un forum pour les membre d'un espace.
+Une discussion permet aux membres d'un **espace** d'échanger et de débattre d'une idée, d'un problème, ou d'à peu près n'importe quoi. Vous pouvez voir ça comme un forum pour les membres d'un espace.
 
 
 ## 2. Les votes
@@ -28,7 +28,7 @@ Une mission peut exiger des compétences spécifiques, et peut être ouverte au 
 # 🧙🏼‍ Pour qui ?
 
 Idéalement, **pour tout groupe ou personne qui veut porter une idée, une initiative ou un projet**.
-On se focalise pour l'instant sur les projets à but non lucratifs, les associations et les ONG.
+On se focalise pour l'instant sur les projets à but non lucratif, les associations et les ONG.
 
 A partir du moment ou il y a quelque chose à construire, les possibilitées sont vastes.
 
@@ -49,7 +49,7 @@ A partir du moment ou il y a quelque chose à construire, les possibilitées son
 
 # 👋 Envie de participer ?
 
-Une première version stable, très minimaliste, devrait voir le jour d'ici une ou deux semaines. Si ca vous dirait de jeter un oeil et de donner votre avis, ca nous aiderait beaucoup !
+Une première version stable, très minimaliste, devrait voir le jour d'ici une ou deux semaines. Si ca vous dit de jeter un oeil et de donner votre avis, ca nous aiderait beaucoup !
 
 [Vous pouvez vous inscrire ici !](https://forms.gle/baBm457sSXcpywn48)
 
